@@ -49,3 +49,6 @@
 [submodule "platforms/qurt/dspal"]
 	path = platforms/qurt/dspal
 	url = https://github.com/ATLFlight/dspal.git
+[submodule "src/examples/PixyCam"]
+	path = src/examples/PixyCam
+	url = https://github.com/ishotjr/PixyCam.git
